@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karun Dawadi</h1>
-- 🔭 I’m currently working on SaveCash
-- 👨‍💻 All of my projects are available at [github.com/karundawadi](https://github.com/karundawadi?tab=repositories)
+- 🔭 I’m currently working on [Save Cash](https://github.com/karundawadi/SaveCash)
+
+- 👨‍💻 All of my projects are available at [karundawadi.com](karundawadi.com)
+
 - 📫 How to reach me **karun.dawadi@icloud.com**
   
 <h3 align="left">Connect with me:</h3>
