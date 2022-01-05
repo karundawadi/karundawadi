@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karun Dawadi</h1>
-- 🔭 I’m currently working on [SaveCash](https://github.com/karundawadi/SaveCash)
+- 🔭 I’m currently working on SaveCash
 
 - 👨‍💻 All of my projects are available at [karundawadi.com](karundawadi.com)
 
