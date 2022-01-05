@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karun Dawadi</h1>
-- 🔭 I’m currently working on <a href="https://github.com/karundawadi/SaveCash" target="blank">SaveCash</a>
+<p>
+- 🔭 I’m currently working on <a href="https://github.com/karundawadi/SaveCash" target="blank">SaveCash</a> 
 - 👨‍💻 All of my projects are available at [github.com/karundawadi](https://github.com/karundawadi?tab=repositories)
-
 - 📫 How to reach me **karun.dawadi@icloud.com**
-
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karundawadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karundawadi" height="30" width="40" /></a>
