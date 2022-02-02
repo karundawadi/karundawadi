@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on SaveCash
 
-- 👨‍💻 All of my projects are available at github.com/karundawadi](https://github.com/karundawadi)
+- 👨‍💻 All of my projects are available at [github.com/karundawadi](https://github.com/karundawadi)
 
 - 📫 How to reach me **karun.dawadi@icloud.com**
   
